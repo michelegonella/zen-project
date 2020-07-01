@@ -70,7 +70,7 @@
 		<hibernate.version>5.2.15.Final</hibernate.version>
 		<hibernate-c3p0.version>5.2.15.Final</hibernate-c3p0.version>
 		<hsqldb.version>2.3.4</hsqldb.version>
-		<log4j2.version>2.7</log4j2.version>
+		<log4j2.version>2.13.2</log4j2.version>
 		<wro4j.version>1.8.0</wro4j.version>
 		<javax-mail.version>1.4.7</javax-mail.version>
 		<twelvemonkeys-imagetools.version>3.2.1</twelvemonkeys-imagetools.version>
